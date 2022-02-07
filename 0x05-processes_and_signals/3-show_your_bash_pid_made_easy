@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-# display bash PID
+# uses pgreg
 pgrep -l bash
